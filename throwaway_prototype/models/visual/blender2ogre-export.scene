@@ -1,0 +1,320 @@
+<scene exported_by="emilxp" formatVersion="1.0.1" previous_export_time="1552261879.964" export_time="1552262270.432" >
+  <nodes >
+    <node name="wrist3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist2_3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist2_3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist2_3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist2_2" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist2_2.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist2_2" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist2_1" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist2_1.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist2_1" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist1_3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist1_3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist1_3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist1_2" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist1_2.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist1_2" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="wrist1_1" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="wrist1_1.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="wrist1_1" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="upperarm4" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="upperarm4.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="upperarm4" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="upperarm3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="upperarm3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="upperarm3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="upperarm2" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="upperarm2.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="upperarm2" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="upperarm1" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="upperarm1.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="upperarm1" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="shoulder3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="shoulder3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="shoulder3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="shoulder2" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="shoulder2.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="shoulder2" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="shoulder1" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="shoulder1.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="shoulder1" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="forearm5" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="forearm5.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="forearm5" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="forearm4" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="forearm4.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="forearm4" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="forearm3" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="forearm3.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="forearm3" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="forearm2" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="forearm2.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="forearm2" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="forearm1" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="forearm1.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="forearm1" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="base" >
+      <position y="0.000000" x="0.000000" z="-0.000000" />
+      <rotation qy="0.000000" qx="0.000000" qz="-0.000000" qw="1.000000" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <entity anisotropic_friction="False" lock_trans_y="False" damping_trans="0.03999999910593033" damping_rot="0.10000000149011612" inertia_tensor="0.4000000059604645" actor="False" velocity_min="0.0" lock_trans_z="False" physics_type="STATIC" lock_trans_x="False" meshFile="base.mesh" friction_y="1.0" friction_x="1.0" friction_z="1.0" velocity_max="0.0" ghost="False" name="base" mass_radius="1.0" mass="1.0" lock_rot_x="False" lock_rot_y="False" lock_rot_z="False" />
+    </node>
+    <node name="Lamp" >
+      <position y="5.903862" x="4.076245" z="-1.005454" />
+      <rotation qy="0.755880" qx="0.169076" qz="-0.272171" qw="0.570947" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <light shadow="true" type="point" name="Lamp" powerScale="1.0" >
+        <position y="5.903862" x="4.076245" z="-1.005454" />
+        <lightAttenuation range="5000" quadratic="0.0" constant="1.0" linear="0.03333335240683057" />
+        <colourDiffuse r="1.0" b="1.0" g="1.0" />
+        <colourSpecular r="1.0" b="1.0" g="1.0" />
+        <colourShadow r="1.0" b="1.0" g="1.0" />
+      </light>
+    </node>
+    <node name="Camera" >
+      <position y="5.343665" x="7.481132" z="6.507640" />
+      <rotation qy="0.334251" qx="0.481707" qz="-0.212922" qw="0.781600" />
+      <scale y="1.000000" x="1.000000" z="1.000000" />
+      <game >
+        <sensors />
+        <actuators />
+      </game>
+      <camera projectionType="perspective" fov="0.5033799435163735" name="Camera" >
+        <clipping far="100.0" nearPlaneDist="0.10000000149011612" near="0.10000000149011612" farPlaneDist="100.0" />
+      </camera>
+    </node>
+  </nodes>
+  <externals >
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2_003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0_003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1_003.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-3_001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-4_001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0_002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1_002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2_002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0_001.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1_001.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2_001.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2.002.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-3.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-4.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2.001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-3.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-4.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-2_001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-0_001.material" />
+    </item>
+    <item type="material" >
+      <file name="C:\exported\visual_new\SWMaterial-1_001.material" />
+    </item>
+  </externals>
+  <environment >
+    <colourBackground r="0.05087608844041824" b="0.05087608844041824" g="0.05087608844041824" />
+    <colourAmbient r="0.0" b="0.0" g="0.0" />
+    <colourDiffuse r="0.05087608844041824" b="0.05087608844041824" g="0.05087608844041824" />
+  </environment>
+</scene>

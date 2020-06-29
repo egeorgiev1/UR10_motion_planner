@@ -1,0 +1,35 @@
+// SWMaterial-1_001 genrated by blender2ogre 0.5.8
+
+material SWMaterial-1_001 
+{
+    receive_shadows on 
+
+    technique
+    {
+        pass SWMaterial-1_001
+        {
+            ambient 0.3137255012989044 0.4341961145401001 0.5120000243186951 1.0
+            diffuse 0.25098040477902295 0.3473568968081011 0.40960002555847197 1.0
+            specular 0.125 0.125 0.125 1.0 0.0
+            emissive 0.0 0.0 0.0 1.0
+
+            alpha_to_coverage off
+            colour_write on
+            cull_hardware clockwise
+            depth_check on
+            depth_func less_equal
+            depth_write on
+            illumination_stage 
+            light_clip_planes off
+            light_scissor off
+            lighting on
+            normalise_normals off
+            polygon_mode solid
+            scene_blend one zero
+            scene_blend_op add
+            shading gouraud
+            transparent_sorting on
+
+        }
+    }
+}
