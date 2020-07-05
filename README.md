@@ -1,3 +1,6 @@
+# Video Presentation of the Project
+[UR10 Robotic Arm Motion Planner - Final Year Project - Youtube](https://www.youtube.com/watch?v=LY3abhviHNc)
+
 # UR10 Motion Planning Project README
 This README describes the setup process for the development environment for the project and also describes how to compile the project's source code. The README assumes that you're executing the commands from this file on a fresh Ubuntu 16.04.4 installation in the given order. The following requirements must be met by the hardware running the Ubuntu installation:
 
